@@ -36,7 +36,7 @@ Git
 Installation
 
 Clone the Repository:
-git clone https://github.com/yourusername/planora-app.git
+git clone https://github.com/Ahmed2132003/Planora.git
 cd planora-app
 
 
@@ -57,7 +57,7 @@ npm run build
 التثبيت (بالعربية)
 
 استنساخ المستودع:
-git clone https://github.com/yourusername/planora-app.git
+git clone https://github.com/Ahmed2132003/Planora.git
 cd planora-app
 
 
