@@ -1,0 +1,73 @@
+/* Light Mode */
+.bg-background-light {
+  background-color: #F9FAFB;
+}
+
+.text-text-light {
+  color: #1F2937;
+}
+
+.bg-card-light {
+  background-color: #FFFFFF;
+}
+
+.bg-primary-light {
+  background-color: #3A86FF;
+}
+
+.text-primary-light {
+  color: #3A86FF;
+}
+
+.bg-secondary-light {
+  background-color: #FFBE0B;
+}
+
+.bg-success-light {
+  background-color: #06D6A0;
+}
+
+.bg-danger-light {
+  background-color: #EF233C;
+}
+
+.bg-accent-light {
+  background-color: #FF006E;
+}
+
+/* Dark Mode */
+.dark .bg-background-light {
+  background-color: #121212;
+}
+
+.dark .text-text-light {
+  color: #E5E7EB;
+}
+
+.dark .bg-card-light {
+  background-color: #1E1E1E;
+}
+
+.dark .bg-primary-light {
+  background-color: #4CC9F0;
+}
+
+.dark .text-primary-light {
+  color: #4CC9F0;
+}
+
+.dark .bg-secondary-light {
+  background-color: #F4A261;
+}
+
+.dark .bg-success-light {
+  background-color: #2A9D8F;
+}
+
+.dark .bg-danger-light {
+  background-color: #E63946;
+}
+
+.dark .bg-accent-light {
+  background-color: #F72585;
+}

@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+*.db  # قاعدة البيانات، مش هترفعها عشان خصوصية
+
+# Build outputs
+dist/
+build/
+out/
+
+# Electron
+.electron/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
